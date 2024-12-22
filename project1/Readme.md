@@ -4,7 +4,7 @@ Welcome to the **Titanic Survival Prediction** project! 🎉
 This project brings a thrilling and historical journey aboard the Titanic, using data science and machine learning to predict the survival chances of passengers. Can we predict who survives based on various factors like age, gender, class, and more? Let’s dive into this fascinating analysis!
 
 
-[Dataset]
+[[Titanic-Dataset]](./https://github.com/Srabani13/Afame-Technologies/blob/main/project1/Titanic-Dataset.csv)
 ---
 
 ## 🌟 Project Overview
