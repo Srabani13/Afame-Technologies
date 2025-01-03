@@ -77,15 +77,16 @@ Ready to explore the Titanic disaster data and test the models? Follow these ste
 In this project, we applied linear regression to predict the survival of passengers aboard the Titanic. We analyzed various features such as passenger demographics, class, and family size to understand how these factors influenced survival chances.
 
 ### Model Performance:
-- The **Linear Regression** model was used to predict survival as a continuous outcome. Although **Linear Regression** is traditionally used for regression tasks, it allowed us to gain an understanding of the relationships within the data.
-- The model achieved an **accuracy of 72%**, which is a solid starting point for a basic linear model. While **Linear Regression** isn’t ideally suited for classification tasks, it still provides valuable insights into the data.
+- The **Logistic Regression** model was used to predict survival as a binary outcome. This model is well-suited for classification tasks and allowed us to capture the relationship between features and the likelihood of survival effectively.
+- **The model achieved** an accuracy of 79.34% on the training data and 80.72% on the test data, indicating that the model generalizes well and performs consistently across both datasets.
 
 ### Key Takeaways:
-- **Linear Regression** is more appropriate for continuous outcomes, but it helped us explore the data and understand trends.
-- For a binary classification task like predicting survival, **Linear Regression** may not be the most optimal model compared to other classification models like **Logistic Regression**. However, it still serves as an excellent tool for understanding relationships between variables.
+- **Logistic Regression** is ideal for binary classification tasks like predicting survival and provides interpretable coefficients that help understand the influence of different features on the outcome.
 
-This project demonstrates the potential of using **Linear Regression** to explore and understand data, but it also highlights the importance of choosing the right model for the task at hand. In the future, more advanced techniques could be explored to enhance prediction accuracy.
+- With an accuracy of over 80% on the test data, the model offers a strong starting point. Further improvements can be achieved by feature engineering, tuning hyperparameters, or exploring more complex models such as decision trees or ensemble methods (e.g., Random Forest or Gradient Boosting).
 
-We hope this analysis sparks further curiosity and exploration into the world of machine learning and data science! 🚀📊
+This project highlights the potential of using **Logistic Regression** to effectively model and predict binary outcomes while also emphasizing the importance of selecting appropriate models for specific tasks. In future iterations, more advanced techniques, such as feature engineering or ensemble models, could be explored to further improve prediction accuracy.
 
-It would be great if you could let me know if you feel any changes need to be made. I am always willing to receive feedback and suggestions.
+We hope this analysis inspires further curiosity and exploration in the exciting fields of machine learning and data science! 🚀📊
+
+If you have any feedback or suggestions, I would greatly appreciate hearing them. I am always eager to learn and improve!
