@@ -12,8 +12,8 @@ This repository showcases two impactful projects I worked on during my internshi
    Analyze the historic Titanic dataset to predict passenger survival using machine learning techniques.  
    [👉 View Project Details](./)
 
-2. **📊 Sales Data Analysis**  
-   Dive into sales data to uncover trends, patterns, and insights that drive business decisions.  
+2. **📊 HR Data Analysis**  
+   Dive into HR data to uncover trends, patterns, and insights that drive business decisions.  
    [👉 View Project Details]
 
 ---
@@ -29,12 +29,13 @@ This repository showcases two impactful projects I worked on during my internshi
 
 ---
 
-### 📊 Sales Data Analysis
-- **Objective**: Analyze sales data to reveal actionable insights.  
+### 📊 HR Data Analysis
+- **Objective**: Analyze HR data to uncover actionable insights for improving workforce management and decision-making.
 - **Highlights**:
-  - 🛠️ **Data Cleaning**: Processed raw sales data into a structured format.  
-  - 📉 **Analysis**: Identified sales trends, top-performing regions, and product categories.  
-  - 📊 **Visualization**: Created impactful dashboards using Python libraries.
+  - 🛠️ **Data Cleaning**: Transformed raw employee data into a structured format.
+  - 📊 **Analysis**: Identified workforce trends, performance metrics, and turnover patterns.
+  - 📈 **Visualization**: Built interactive dashboards for demographic, performance, and attrition insights.
+
 
 ---
 
