@@ -10,11 +10,11 @@ This repository showcases two impactful projects I worked on during my internshi
 ### 🛠️ Projects:
 1. **🚢 Titanic Survival Prediction**  
    Analyze the historic Titanic dataset to predict passenger survival using machine learning techniques.  
-   [👉 View Project Details](./)
+   [👉 View Project Details](./https://github.com/Srabani13/Afame-Technologies/blob/main/project1/Titanic-Dataset.csv)
 
 2. **📊 HR Data Analysis**  
    Dive into HR data to uncover trends, patterns, and insights that drive business decisions.  
-   [👉 View Project Details]
+   [👉 Live Dashboard](./https://app.powerbi.com/links/zFM-Rs7dX9?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ---
 
